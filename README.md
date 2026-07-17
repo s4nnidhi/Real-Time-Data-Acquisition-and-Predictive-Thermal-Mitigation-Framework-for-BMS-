@@ -1,6 +1,5 @@
 # Real-Time-Data-Acquisition-and-Predictive-Thermal-Mitigation-Framework-for-BMS-
-Here is a professional and "normal" README for your GitHub repository. It covers
-everything from the hardware you used to the logic behind the system.
+
 
 ESP32 Adaptive Battery Management System (BMS)
 
